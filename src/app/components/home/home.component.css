@@ -1,0 +1,38 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: blue;
+}
+p {
+    color: white;
+}
+
+.odd {
+    background-color: deeppink;
+    color: deepskyblue;
+    font-weight: 900;
+}
+.even {
+    background-color: antiquewhite;
+    color: chocolate;
+    font-weight: 900;
+}
+
+.less18 {
+    background-color: lightblue;
+    color: black;
+    font-weight: 900;
+}
+
+.less65 {
+    background-color: orangered;
+    color: white;
+    font-weight: 900;
+}
+
+.more65 {
+    background-color:crimson;
+    color: white;
+    font-weight: 900;
+}
